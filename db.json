@@ -70,12 +70,8 @@
       "img_url": "http://books.google.com/books/content?id=S3yODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 8,
-          "username": "maverick"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -134,6 +130,10 @@
         {
           "id": 5,
           "username": "feels-like-summer"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -144,20 +144,10 @@
       "description": "In the searing pages of this classic autobiography, originally published in 1964, Malcolm X, the Muslim leader, firebrand, and anti-integrationist, tells the extraordinary story of his life and the growth of the Black Muslim movement. His fascinating perspective on the lies and limitations of the American Dream, and the inherent racism in a society that denies its nonwhite citizens the opportunity to dream, gives extraordinary insight into the most urgent issues of our own time. The Autobiography of Malcolm X stands as the definitive statement of a movement and a man whose work was never completed but whose message is timeless. It is essential reading for anyone who wants to understand America.",
       "author": "Malcolm X with Alex Haley",
       "img_url": "http://books.google.com/books/content?id=EtVfCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 9,
-          "username": "alex"
-        },
-        {
-          "id": 3,
-          "username": "marvin"
-        },
-        {
-          "id": 2,
-          "username": "auer"
-        }
-      ]
+      "users": {
+        "id": 1,
+        "username": "pouros"
+      }
     },
     {
       "id": 9,
@@ -190,12 +180,8 @@
       "img_url": "http://books.google.com/books/content?id=fc8PDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
-          "username": "maverick"
-        },
-        {
-          "id": 10,
-          "username": "macejkovic"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -206,16 +192,7 @@
       "description": "Behold the Dreamers is the 2016 debut novel by Imbolo Mbue. The novel details the experiences of two New York City families during the 2008 financial crisis: an immigrant family from Cameroon, the Jonga family, and their wealthy employers, the Edwards family.",
       "author": "Imbolo Mbue",
       "img_url": "http://books.google.com/books/content?id=nEcsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 8,
-          "username": "maverick"
-        },
-        {
-          "id": 10,
-          "username": "macejkovic"
-        }
-      ]
+      "users": []
     }
   ],
   "users": [
